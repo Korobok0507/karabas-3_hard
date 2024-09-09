@@ -1,7 +1,7 @@
 # Модуль обработки регулярных выражений
 import re
 
-# Создание функции поиска чисел строках.
+# Создание функции поиска чисел в строках.
 def calculate_structure_sum(data_structure):
 
     def extract_numbers_from_string(s):
